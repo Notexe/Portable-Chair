@@ -1,0 +1,111 @@
+{
+    "d0c13eef-889d-49f9-89ff-90e09d40aaf3": {
+        "ID_": "d0c13eef-889d-49f9-89ff-90e09d40aaf3",
+        "AdditionalKeywords": [
+            "NONE"
+        ],
+        "CanBeDropped": true,
+        "CarryAnimSetType": "EAST_SUITCASE",
+        "CheatGroup": "eCGExotics",
+        "CommonName": "Portable Chair",
+        "Description": "ui_prop_chair_portablechair_desc",
+        "EnablePickUpOnRelease": true,
+        "GripAnimType": "IGT_Melee_1H_FireExtinguisher",
+        "HolsterAbility": "eCanNotBeHolstered",
+        "HudIcon": "20293679665533180",
+        "Image": "images/unlockables/item_perspective_d0c13eef-889d-49f9-89ff-90e09d40aaf3_0.jpg",
+        "InventoryCategoryIcon": "tool",
+        "InventoryCategoryName": "tool",
+        "ItemHandsCoverAnimLayer": "IH_ONEHANDED",
+        "ItemHandsIdle": "IH_ONEHANDED",
+        "ItemHandsUse": "IH_TWOHANDED",
+        "ItemSize": "ITEMSIZE_LARGE",
+        "MainAnimSetType": "EAST_SUITCASE",
+        "MugshotTransformation": "6.123032E-17, 1, 0, -1, 6.123032E-17, 0, 0, 0, 1, 0, 0, 0",
+        "Name_LOC": "ui_prop_chair_portablechair_name",
+        "OnlineTraits": [
+            "NONE"
+        ],
+        "OverrideItemThrowRotation": true,
+        "PlaceableType": "PLACEABLE_SLEEP_PHYSICS",
+        "RecognizableByCivilians": false,
+        "ReverseItemThrowRotationDirection": true,
+        "Runtime": "36353045989061558",
+        "ThrowType": "THROW_PACIFY_HEAVY",
+        "ThrowVelocity": 37.0,
+        "Title": "Portable Chair",
+        "UseFakePutDownPhysics": false,
+        "AIPerceptibleOnRelease": false,
+        "AppliedModifiers": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "CanPistolWhip": false,
+        "CheatSpawnGroup_Everything": false,
+        "CheatSpawnGroup_Keys": false,
+        "CheatSpawnGroup_Standard": false,
+        "CheatSpawnGroup_Tools": false,
+        "DetectShots": false,
+        "DisplayItemCategoryOnlineTraitsIndex": 0.0,
+        "EquipAbility": "EA_EQUIP_IN_HANDS",
+        "ForbidCloseCombat": false,
+        "HarmlessImpact": false,
+        "HitmanCanConceal": false,
+        "InteractionTimeMultiplier": 1.0,
+        "IsCheckedWhenFrisked": false,
+        "IsCoin": false,
+        "IsExplosive": false,
+        "IsPerceivedAsWeapon": false,
+        "ItemImpactForce": 0.0,
+        "ItemImpactUpkick": 0.0,
+        "ItemType": "eUnknownItemType",
+        "KillItemCategoryOnlineTraitsIndex": 0.0,
+        "KinematicWhileCarried": false,
+        "LocaKey": "",
+        "ModifierSlot1": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "ModifierSlot2": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "ModifierSlot3": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "ModifierSlot4": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "ModifierSlot5": [
+            "00000000-0000-0000-0000-000000000000"
+        ],
+        "MugshotIsTransparent": false,
+        "NeverInvestigateDistractions": false,
+        "PlacementOrientToHM": true,
+        "PlacementUseHitNormal": true,
+        "RagdollImpactForce": 0.0,
+        "RagdollImpactUpkick": 0.0,
+        "SpawnKinematic": false,
+        "Stackable": false,
+        "SupportItem": "00000000-0000-0000-0000-000000000000",
+        "ThrownCollisionLoudness": "eLoudness_Default",
+        "TokenID": "",
+        "ActionRewardType": "AR_None",
+        "AmmoItem": "00000000-0000-0000-0000-000000000000",
+        "CompareItem": "00000000-0000-0000-0000-000000000000",
+        "EnablePickUpOnSpawn": true,
+        "EnablePickUpOnThrowRelease": true,
+        "Evergreen_CapacityCost": 0.0,
+        "Evergreen_GiveWhenUnlocked": true,
+        "Evergreen_LoseOnWounded": false,
+        "Evergreen_Price": 0.0,
+        "Evergreen_Rarity": 0.0,
+        "Evergreen_UnlockChallenge": "00000000-0000-0000-0000-000000000000",
+        "Evergreen_UnlockEntitlement": "",
+        "Evergreen_UnlockMastery": 0.0,
+        "ItemHUDType": "EIHT_None",
+        "MeleeDamageBehavior": "EIMDB_Undefined",
+        "PoisonType": "POISONTYPE_NONE",
+        "RagdollImpactForceGlobal": 0.0,
+        "RagdollImpactUpkickGlobal": 0.0,
+        "Rarity": "ITEMRARITY_COMMON",
+        "ThrowImpactVisualRadius": 1.4
+    }
+}

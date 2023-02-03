@@ -1,8 +1,37 @@
 {
-	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Incredible Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.12.4"
+	"version": "1.0.0",
+	"id": "Notex.PortableChair",
+	"name": "Portable Chair",
+	"description": "Unleash the power of comfort with the Portable Chair Mod for HITMAN 3. As Agent 47, you can now carry a chair with you on your mission and take a well-deserved break whenever you desire. Immerse yourself in the game's surroundings and experience a new level of realism like never before.",
+	"authors": [
+		"Notex"
+	],
+	"contentFolders": [
+		"content"
+	],
+	"blobsFolders": [
+		"blobs"
+	],
+	"frameworkVersion": "2.12.4",
+	"localisation": {
+		"english": {
+			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Portable Chair",
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "The chair is a classic folding chair (folding not included), with a sturdy construction that is perfect for sitting in for long periods of time."
+		},
+		"french": {},
+		"italian": {},
+		"german": {},
+		"spanish": {},
+		"russian": {},
+		"chineseSimplified": {},
+		"chineseTraditional": {},
+		"japanese": {}
+	},
+	"dependencies": [
+		{
+			"runtimeID": "009E0825703FB677",
+			"toChunk": 0,
+			"portFromChunk1": true
+		}
+	]
 }

@@ -1,0 +1,23 @@
+{
+    "PROP_CHAIR_PORTABLECHAIR": {
+        "Id": "PROP_CHAIR_PORTABLECHAIR",
+        "Guid": "1d7fbd3a-a166-480c-bc56-2475e8e0713e",
+        "Type": "gear",
+        "Subtype": "tool",
+        "ImageId": "",
+        "RMTPrice": 149,
+        "GamePrice": 149,
+        "IsPurchasable": false,
+        "IsPublished": true,
+        "IsDroppable": false,
+        "Capabilities": [],
+        "Qualities": {},
+        "Properties": {
+            "Quality": 4,
+            "LoadoutSlot": "gear",
+            "Rarity": "common",
+            "RepositoryId": "d0c13eef-889d-49f9-89ff-90e09d40aaf3"
+        },
+        "Rarity": "common"
+    }
+}
