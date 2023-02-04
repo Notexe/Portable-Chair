@@ -12,14 +12,38 @@
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Portable Chair",
 			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "The chair is a classic folding chair (folding not included), with a sturdy construction that is perfect for sitting in for long periods of time."
 		},
-		"french": {},
-		"italian": {},
-		"german": {},
-		"spanish": {},
-		"russian": {},
-		"chineseSimplified": {},
-		"chineseTraditional": {},
-		"japanese": {}
+		"french": {
+			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Chaise Portable",
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "La chaise est une chaise pliante classique (pliage non inclus), avec une construction solide qui est parfaite pour s'asseoir pendant de longues périodes de temps."
+		},
+		"italian": {
+			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Sedia Portatile",
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "La sedia è una sedia pieghevole classica (piega non inclusa), con una costruzione robusta che è perfetta per sedersi per lunghi periodi di tempo."
+		},
+		"german": {
+			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Tragbarer Stuhl",
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "Der Stuhl ist ein klassischer Klappstuhl (Zusammenklappen nicht enthalten), mit einer stabilen Konstruktion, die perfekt für längeres Sitzen ist."
+		},
+		"spanish": {
+			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Silla Portátil",
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "La silla es una silla plegable clásica (plegado no incluido), con una construcción sólida que es perfecta para sentarse durante largos períodos de tiempo."
+		},
+		"russian": {
+			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Портативный стул",
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "Стул является классическим складным стулом (складывание не включено), с прочной конструкцией, которая идеально подходит для длительного нахождения на сидении."
+		},
+		"chineseSimplified": {
+			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "便携式椅子",
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "这把椅子是一款经典的折叠椅（不包括折叠），具有坚固的结构，非常适合长时间坐在上面。"
+		},
+		"chineseTraditional": {
+			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "攜帶式椅子",
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "這把椅子是一款經典的折疊椅（不包括折疊），具有堅固的結構，非常適合長時間坐在上面。"
+		},
+		"japanese": {
+			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "折り畳み椅子",
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "この椅子はクラシックな折り畳み椅子（折り畳みは含まれていません）で、長時間座っているのに適した頑丈な構造です。"
+		}
 	},
 	"dependencies": [
 		{
