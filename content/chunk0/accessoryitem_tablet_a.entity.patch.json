@@ -1,0 +1,21 @@
+{
+	"tempHash": "00BD42A2686CD5E3",
+	"tbluHash": "003BED77795FD45A",
+	"patch": [
+		{
+			"SubEntityOperation": [
+				"92940aa7aefec10a",
+				{
+					"AddPropertyAliasConnection": [
+						"Texture2D_04_dest",
+						{
+							"originalProperty": "Texture2D_04_dest",
+							"originalEntity": "66130179bedc2879"
+						}
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 6
+}
