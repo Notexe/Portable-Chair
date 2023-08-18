@@ -143,9 +143,7 @@
 				},
 				"m_aSubactions": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feed052ccaa23644"
-					]
+					"value": ["feed052ccaa23644"]
 				},
 				"m_Object": {
 					"type": "SEntityTemplateReference",
@@ -155,55 +153,35 @@
 			},
 			"events": {
 				"WeaponPlayerEquipped": {
-					"Item_Equipped": [
-						"feed85c41af3a635"
-					]
+					"Item_Equipped": ["feed85c41af3a635"]
 				},
 				"DeadlyThrowImpact": {
-					"DeadlyThrowImpact": [
-						"feed85c41af3a635"
-					]
+					"DeadlyThrowImpact": ["feed85c41af3a635"]
 				},
 				"ThrowImpact": {
-					"DeadlyThrowImpact": [
-						"feed85c41af3a635"
-					]
+					"DeadlyThrowImpact": ["feed85c41af3a635"]
 				},
 				"ImpactFrontSide": {
-					"Impact": [
-						"feed85c41af3a635"
-					]
+					"Impact": ["feed85c41af3a635"]
 				},
 				"ImpactBack": {
-					"Impact": [
-						"feed85c41af3a635"
-					]
+					"Impact": ["feed85c41af3a635"]
 				},
 				"OnPlaced": {
-					"ItemPlaced": [
-						"feed85c41af3a635"
-					]
+					"ItemPlaced": ["feed85c41af3a635"]
 				},
 				"OnPutInContainer": {
-					"ItemPlaced": [
-						"feed85c41af3a635"
-					]
+					"ItemPlaced": ["feed85c41af3a635"]
 				},
 				"OnDrop": {
-					"OnDrop_MixingEvent": [
-						"feed85c41af3a635"
-					]
+					"OnDrop_MixingEvent": ["feed85c41af3a635"]
 				},
 				"OnThrown": {
-					"OnThrown_MixingEvent": [
-						"feed85c41af3a635"
-					]
+					"OnThrown_MixingEvent": ["feed85c41af3a635"]
 				}
 			},
 			"subsets": {
-				"Replicable": [
-					"feedc2472534fc11"
-				]
+				"Replicable": ["feedc2472534fc11"]
 			}
 		},
 		"feed51742f82a4cc": {
@@ -241,9 +219,7 @@
 				},
 				"m_ConditionList_Visible": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feed6449802a7ece"
-					]
+					"value": ["feed6449802a7ece"]
 				},
 				"m_RuntimeNetworkResourceID": {
 					"type": "ZRuntimeResourceID",
@@ -288,9 +264,7 @@
 			},
 			"events": {
 				"Completed": {
-					"EnterSafeZone": [
-						"feed8dbd8f94a788"
-					]
+					"EnterSafeZone": ["feed8dbd8f94a788"]
 				}
 			}
 		},
@@ -372,15 +346,11 @@
 				},
 				"m_aSubactions": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feed51742f82a4cc"
-					]
+					"value": ["feed51742f82a4cc"]
 				},
 				"m_aPromptPositions": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feedf639202aca5d"
-					]
+					"value": ["feedf639202aca5d"]
 				},
 				"m_Object": {
 					"type": "SEntityTemplateReference",
@@ -392,9 +362,7 @@
 				},
 				"m_aUIHighlightGeom": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feedc93387570723"
-					]
+					"value": ["feedc93387570723"]
 				}
 			}
 		},
@@ -414,12 +382,7 @@
 				},
 				"m_aInputListeners": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feed849975ce06dc",
-						"feed0f31a72c0519",
-						"feede2ab17df769d",
-						"feed73b07b38af9c"
-					]
+					"value": ["feed849975ce06dc", "feed0f31a72c0519", "feede2ab17df769d", "feed73b07b38af9c"]
 				},
 				"m_bSetPositionOnExit": {
 					"type": "bool",
@@ -479,9 +442,7 @@
 			"properties": {
 				"m_aChildNetworks": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feed9c5db705c509"
-					],
+					"value": ["feed9c5db705c509"],
 					"postInit": true
 				},
 				"m_rSelectedIndex": {
@@ -564,16 +525,9 @@
 			},
 			"events": {
 				"OnPressed": {
-					"ExitSafeZone": [
-						"feed8dbd8f94a788"
-					],
-					"SetFalse": [
-						"feed0054d7441079",
-						"feedb5825985bb17"
-					],
-					"Stop": [
-						"feede7b0978066b9"
-					]
+					"ExitSafeZone": ["feed8dbd8f94a788"],
+					"SetFalse": ["feed0054d7441079", "feedb5825985bb17"],
+					"Stop": ["feede7b0978066b9"]
 				}
 			}
 		},
@@ -590,9 +544,7 @@
 			},
 			"events": {
 				"ForwardVector": {
-					"Vector3": [
-						"feed11dd5d25bbef"
-					]
+					"Vector3": ["feed11dd5d25bbef"]
 				}
 			}
 		},
@@ -604,15 +556,11 @@
 			"properties": {
 				"m_aValueXEntities": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feed234340e47bad"
-					]
+					"value": ["feed234340e47bad"]
 				},
 				"m_aValueYEntities": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feed687f88b84bb5"
-					]
+					"value": ["feed687f88b84bb5"]
 				}
 			}
 		},
@@ -623,9 +571,7 @@
 			"blueprint": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_basic.entitytemplate].pc_entityblueprint",
 			"events": {
 				"OnValue": {
-					"Value": [
-						"feeda37d7cd3c1e8"
-					]
+					"Value": ["feeda37d7cd3c1e8"]
 				}
 			}
 		},
@@ -652,19 +598,13 @@
 			},
 			"events": {
 				"WentIntoRange": {
-					"SetTrue": [
-						"feed55ade78a8f95"
-					]
+					"SetTrue": ["feed55ade78a8f95"]
 				},
 				"WentBelowMin": {
-					"SetFalse": [
-						"feed55ade78a8f95"
-					]
+					"SetFalse": ["feed55ade78a8f95"]
 				},
 				"WentAboveMax": {
-					"SetFalse": [
-						"feed55ade78a8f95"
-					]
+					"SetFalse": ["feed55ade78a8f95"]
 				}
 			}
 		},
@@ -687,9 +627,7 @@
 			"blueprint": "[assembly:/_pro/design/logic/valuefloat.template?/valuefloat_basic.entitytemplate].pc_entityblueprint",
 			"events": {
 				"OnValue": {
-					"Value": [
-						"feedeef795d48441"
-					]
+					"Value": ["feedeef795d48441"]
 				}
 			}
 		},
@@ -700,50 +638,26 @@
 			"blueprint": "[modules:/zinteractioneventconsumer.class].pc_entityblueprint",
 			"events": {
 				"ObjectEvent01": {
-					"AttachRightHand": [
-						"feedd6da90599c07"
-					],
-					"SetVisible": [
-						"feedde038ccce914"
-					],
-					"TriggerEvent01_TurnOn": [
-						"feedde038ccce914"
-					],
-					"Play": [
-						"feed71d02e41d6c2"
-					],
-					"MakeVisible": [
-						"feed6d6b3236d552"
-					]
+					"AttachRightHand": ["feedd6da90599c07"],
+					"SetVisible": ["feedde038ccce914"],
+					"TriggerEvent01_TurnOn": ["feedde038ccce914"],
+					"Play": ["feed71d02e41d6c2"],
+					"MakeVisible": ["feed6d6b3236d552"]
 				},
 				"ObjectEvent02": {
-					"DetachAndHide": [
-						"feedd6da90599c07"
-					],
-					"TriggerEvent02_TurnOff": [
-						"feedde038ccce914"
-					],
-					"Stop": [
-						"feed71d02e41d6c2"
-					],
-					"MakeInvisible": [
-						"feed6d6b3236d552"
-					]
+					"DetachAndHide": ["feedd6da90599c07"],
+					"TriggerEvent02_TurnOff": ["feedde038ccce914"],
+					"Stop": ["feed71d02e41d6c2"],
+					"MakeInvisible": ["feed6d6b3236d552"]
 				},
 				"SoundEvent02": {
-					"Send": [
-						"feedf6c1e172391d"
-					]
+					"Send": ["feedf6c1e172391d"]
 				},
 				"SoundEvent03": {
-					"Send": [
-						"feed5f0219cd50d2"
-					]
+					"Send": ["feed5f0219cd50d2"]
 				},
 				"SoundEvent04": {
-					"Send": [
-						"feedb898314f0897"
-					]
+					"Send": ["feedb898314f0897"]
 				}
 			}
 		},
@@ -803,9 +717,7 @@
 				}
 			},
 			"subsets": {
-				"Replicable": [
-					"feedc2472534fc11"
-				]
+				"Replicable": ["feedc2472534fc11"]
 			}
 		},
 		"feed5716f8531a8b": {
@@ -816,9 +728,7 @@
 			"properties": {
 				"m_BaseEventConsumers": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feedb32299430b54"
-					]
+					"value": ["feedb32299430b54"]
 				}
 			}
 		},
@@ -912,9 +822,7 @@
 				}
 			},
 			"subsets": {
-				"AudioEmitters": [
-					"feedc2472534fc11"
-				]
+				"AudioEmitters": ["feedc2472534fc11"]
 			}
 		},
 		"feed05bfa23deca4": {
@@ -970,19 +878,13 @@
 			},
 			"events": {
 				"WentIntoRange": {
-					"SetTrue": [
-						"feed5bfda1225736"
-					]
+					"SetTrue": ["feed5bfda1225736"]
 				},
 				"WentBelowMin": {
-					"SetFalse": [
-						"feed5bfda1225736"
-					]
+					"SetFalse": ["feed5bfda1225736"]
 				},
 				"WentAboveMax": {
-					"SetFalse": [
-						"feed5bfda1225736"
-					]
+					"SetFalse": ["feed5bfda1225736"]
 				}
 			}
 		},
@@ -994,22 +896,15 @@
 			"properties": {
 				"m_aValues": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feed55ade78a8f95",
-						"feed5bfda1225736"
-					]
+					"value": ["feed55ade78a8f95", "feed5bfda1225736"]
 				}
 			},
 			"events": {
 				"OnTrue": {
-					"SetTrue": [
-						"feed2200e07811b5"
-					]
+					"SetTrue": ["feed2200e07811b5"]
 				},
 				"OnFalse": {
-					"SetFalse": [
-						"feed2200e07811b5"
-					]
+					"SetFalse": ["feed2200e07811b5"]
 				}
 			}
 		},
@@ -1054,14 +949,10 @@
 			},
 			"events": {
 				"OnTrue": {
-					"Enable": [
-						"feed05bfa23deca4"
-					]
+					"Enable": ["feed05bfa23deca4"]
 				},
 				"OnFalse": {
-					"Disable": [
-						"feed05bfa23deca4"
-					]
+					"Disable": ["feed05bfa23deca4"]
 				}
 			}
 		},
@@ -1073,9 +964,7 @@
 			"properties": {
 				"m_aHolders": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feedc93387570723"
-					],
+					"value": ["feedc93387570723"],
 					"postInit": true
 				}
 			}
@@ -1107,9 +996,7 @@
 				}
 			},
 			"subsets": {
-				"AudioEmitters": [
-					"feedc2472534fc11"
-				]
+				"AudioEmitters": ["feedc2472534fc11"]
 			}
 		},
 		"feedb898314f0897": {
@@ -1193,9 +1080,7 @@
 			},
 			"events": {
 				"OnPressed": {
-					"Toggle": [
-						"feed0054d7441079"
-					]
+					"Toggle": ["feed0054d7441079"]
 				}
 			}
 		},
@@ -1242,14 +1127,10 @@
 			},
 			"events": {
 				"OnTrue": {
-					"FadeOut": [
-						"feedc372fae191a7"
-					]
+					"FadeOut": ["feedc372fae191a7"]
 				},
 				"OnFalse": {
-					"FadeIn": [
-						"feedc372fae191a7"
-					]
+					"FadeIn": ["feedc372fae191a7"]
 				}
 			}
 		},
@@ -1276,9 +1157,7 @@
 				},
 				"m_aMultiSource": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feed71d02e41d6c2"
-					]
+					"value": ["feed71d02e41d6c2"]
 				},
 				"m_nWidth": {
 					"type": "uint32",
@@ -1439,9 +1318,7 @@
 			"properties": {
 				"m_aEmitters": {
 					"type": "TArray<SEntityTemplateReference>",
-					"value": [
-						"feed05e41671ca69"
-					]
+					"value": ["feed05e41671ca69"]
 				},
 				"m_pMainEvent": {
 					"type": "ZRuntimeResourceID",
@@ -1458,9 +1335,7 @@
 			"factory": "[assembly:/templates/sound/wwise/soundentities.template?/2daudioemitter.entitytemplate].pc_entitytype",
 			"blueprint": "[assembly:/templates/sound/wwise/soundentities.template?/2daudioemitter.entitytemplate].pc_entityblueprint",
 			"subsets": {
-				"AudioEmitters": [
-					"feedc2472534fc11"
-				]
+				"AudioEmitters": ["feedc2472534fc11"]
 			}
 		},
 		"feede2ab17df769d": {
@@ -1499,12 +1374,8 @@
 			},
 			"events": {
 				"OnPressed": {
-					"SetTrue": [
-						"feedb5825985bb17"
-					],
-					"Send": [
-						"feede7b0978066b9"
-					]
+					"SetTrue": ["feedb5825985bb17"],
+					"Send": ["feede7b0978066b9"]
 				}
 			}
 		},
@@ -1556,12 +1427,8 @@
 			},
 			"events": {
 				"OnPressed": {
-					"SetFalse": [
-						"feedb5825985bb17"
-					],
-					"Stop": [
-						"feede7b0978066b9"
-					]
+					"SetFalse": ["feedb5825985bb17"],
+					"Stop": ["feede7b0978066b9"]
 				}
 			}
 		},

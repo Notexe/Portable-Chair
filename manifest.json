@@ -1,19 +1,13 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "1.3.0",
+	"version": "1.4.0",
 	"id": "Notex.PortableChair",
 	"name": "Portable Chair",
 	"description": "Unleash the power of comfort with the Portable Chair Mod for HITMAN 3. As Agent 47, you can now carry a chair with you on your mission and take a well-deserved break whenever you desire. Immerse yourself in the game's surroundings and experience a new level of realism like never before.",
-	"authors": [
-		"Notex"
-	],
-	"contentFolders": [
-		"content"
-	],
-	"blobsFolders": [
-		"blobs"
-	],
-	"frameworkVersion": "2.12.4",
+	"authors": ["Notex"],
+	"contentFolders": ["content"],
+	"blobsFolders": ["blobs"],
+	"frameworkVersion": "2.31.2",
 	"localisation": {
 		"english": {
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Portable Chair",

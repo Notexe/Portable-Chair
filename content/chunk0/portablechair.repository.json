@@ -1,9 +1,7 @@
 {
 	"d0c13eef-889d-49f9-89ff-90e09d40aaf3": {
 		"ID_": "d0c13eef-889d-49f9-89ff-90e09d40aaf3",
-		"AdditionalKeywords": [
-			"NONE"
-		],
+		"AdditionalKeywords": ["NONE"],
 		"CanBeDropped": true,
 		"CarryAnimSetType": "EAST_SUITCASE",
 		"CheatGroup": "eCGExotics",
@@ -23,9 +21,7 @@
 		"MainAnimSetType": "EAST_SUITCASE",
 		"MugshotTransformation": "6.123032E-17, 1, 0, -1, 6.123032E-17, 0, 0, 0, 1, 0, 0, 0",
 		"Name_LOC": "ui_prop_chair_portablechair_name",
-		"OnlineTraits": [
-			"NONE"
-		],
+		"OnlineTraits": ["NONE"],
 		"OverrideItemThrowRotation": true,
 		"PlaceableType": "PLACEABLE_SLEEP_PHYSICS",
 		"RecognizableByCivilians": false,
@@ -36,9 +32,7 @@
 		"Title": "Portable Chair",
 		"UseFakePutDownPhysics": false,
 		"AIPerceptibleOnRelease": false,
-		"AppliedModifiers": [
-			"00000000-0000-0000-0000-000000000000"
-		],
+		"AppliedModifiers": ["00000000-0000-0000-0000-000000000000"],
 		"CanPistolWhip": false,
 		"CheatSpawnGroup_Everything": false,
 		"CheatSpawnGroup_Keys": false,
@@ -61,21 +55,11 @@
 		"KillItemCategoryOnlineTraitsIndex": 0.0,
 		"KinematicWhileCarried": false,
 		"LocaKey": "",
-		"ModifierSlot1": [
-			"00000000-0000-0000-0000-000000000000"
-		],
-		"ModifierSlot2": [
-			"00000000-0000-0000-0000-000000000000"
-		],
-		"ModifierSlot3": [
-			"00000000-0000-0000-0000-000000000000"
-		],
-		"ModifierSlot4": [
-			"00000000-0000-0000-0000-000000000000"
-		],
-		"ModifierSlot5": [
-			"00000000-0000-0000-0000-000000000000"
-		],
+		"ModifierSlot1": ["00000000-0000-0000-0000-000000000000"],
+		"ModifierSlot2": ["00000000-0000-0000-0000-000000000000"],
+		"ModifierSlot3": ["00000000-0000-0000-0000-000000000000"],
+		"ModifierSlot4": ["00000000-0000-0000-0000-000000000000"],
+		"ModifierSlot5": ["00000000-0000-0000-0000-000000000000"],
 		"MugshotIsTransparent": false,
 		"NeverInvestigateDistractions": false,
 		"PlacementOrientToHM": true,

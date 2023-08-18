@@ -10,19 +10,13 @@
 			"blueprint": "[modules:/zentity.class].pc_entityblueprint",
 			"inputCopying": {
 				"SetVisible": {
-					"SetVisible": [
-						"feed7b72e4bf1aa0"
-					]
+					"SetVisible": ["feed7b72e4bf1aa0"]
 				},
 				"SetInPhysicsWorld": {
-					"SetInPhysicsWorld": [
-						"feed7b72e4bf1aa0"
-					]
+					"SetInPhysicsWorld": ["feed7b72e4bf1aa0"]
 				},
 				"KinematicBody": {
-					"KinematicBody": [
-						"feed7b72e4bf1aa0"
-					]
+					"KinematicBody": ["feed7b72e4bf1aa0"]
 				}
 			},
 			"propertyAliases": {
@@ -48,21 +42,15 @@
 			"exposedEntities": {
 				"HandAttacherSpatial": {
 					"isArray": false,
-					"refersTo": [
-						"feeddb03138308b1"
-					]
+					"refersTo": ["feeddb03138308b1"]
 				},
 				"ItemPlacement": {
 					"isArray": false,
-					"refersTo": [
-						"feedddd19f5d7977"
-					]
+					"refersTo": ["feedddd19f5d7977"]
 				},
 				"PlacementVolume": {
 					"isArray": false,
-					"refersTo": [
-						"feed0348730f32cf"
-					]
+					"refersTo": ["feed0348730f32cf"]
 				}
 			},
 			"exposedInterfaces": {
