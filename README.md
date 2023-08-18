@@ -4,7 +4,7 @@ The preferred template for Simple Mod Framework mods.
 
 ## Why should I use this?
 
-### Exclusive feature: proper changelog handling
+### Better changelog handling
 
 Changelogs in mod updates are often not particularly helpful to users. Let's look at an example: Notex's [Portable Chair mod](https://www.nexusmods.com/hitman3/mods/453). Initially, the mod was released (like all mods) at version `1.0.0`. It was then given an update to `1.1.0` with the following changes:
 
@@ -24,7 +24,7 @@ If Portable Chair didn't use the `smf-mod` template, a user on `1.0.0` would onl
         -   This also means that your versions are fully compatible with Semantic Versioning, which improves the framework's ability to know how your mod has changed
     -   Your mod's manifest will be edited for you; you don't have to set anything up yourself
 -   Automatic formatting
-    -   Prettier is run on every release commit, and a pre-made configuration for it is included
+    -   Prettier is run before each commit, and a pre-made configuration for it is included
 -   LGPLv3 license
     -   Mods created with this template are permissively licensed; anyone can alter your mod, but they have to give credit and provide a list of what they have changed
 -   Automatic updating of `frameworkVersion`
@@ -41,9 +41,21 @@ GitHub is a place for hosting Git repositories, which lets you more easily see b
 
 ## How do I use this?
 
+### Requirements
+
+You'll need Git, obviously, and preferably also a GUI client if you aren't experienced with Git's command line interface. GitHub Desktop is recommended, but VS Code includes its own as well (though it can be unintuitive at times and functions more as a list of Git commands than as an easy-to-use interface).
+
+You'll also want Node.js for formatting and using other tools (QuickEntity Editor, for example, requires it for game-file extensions). You can download the latest release from [here](https://nodejs.org/en) - either LTS or Current is fine.
+
+### Cloning the template
+
+To get started, click the green "Use this template" button on GitHub and create a new repository. Give it whatever name you like and make it public or private (if you want to make it private, then make sure to change it back to public when the mod is released, else there's no point in this template). You can then clone the repository directly into your Mods folder (so the repository gets its own folder under Mods where you can work).
+
+Once you've done that, go to the new folder in your Mods folder and run the commands `npm install` and `npm run prepare` to set up automatic formatting.
+
 ### Making a new mod
 
-To get started, edit `manifest.json` to use the correct mod ID and create a commit along the lines of `feat: initial mod`. From then, you can work on your mod and make whatever commits you like (per the following section).
+First, edit `manifest.json` to use the correct mod ID and create a commit along the lines of `feat: initial mod`. From then, you can work on your mod and make whatever commits you like (per the following section).
 
 An important note: the version for the mod starts at `0.1.0`, which means the mod is in development - you can make as many changes as you like at `0.x.x`. When you finalise the mod for its first release, add an exclamation mark before the `:` (like `feat!: final feature`) and the version will automatically be bumped to `1.0.0`.
 

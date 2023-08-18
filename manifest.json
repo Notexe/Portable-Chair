@@ -1,49 +1,78 @@
 {
+	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
 	"version": "1.3.0",
 	"id": "Notex.PortableChair",
 	"name": "Portable Chair",
 	"description": "Unleash the power of comfort with the Portable Chair Mod for HITMAN 3. As Agent 47, you can now carry a chair with you on your mission and take a well-deserved break whenever you desire. Immerse yourself in the game's surroundings and experience a new level of realism like never before.",
-	"authors": ["Notex"],
-	"contentFolders": ["content"],
-	"blobsFolders": ["blobs"],
+	"authors": [
+		"Notex"
+	],
+	"contentFolders": [
+		"content"
+	],
+	"blobsFolders": [
+		"blobs"
+	],
 	"frameworkVersion": "2.12.4",
 	"localisation": {
 		"english": {
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Portable Chair",
-			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "The chair is a classic folding chair (folding not included), with a sturdy construction that is perfect for sitting in for long periods of time."
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "The chair is a classic folding chair (folding not included), with a sturdy construction that is perfect for sitting in for long periods of time.",
+			"UI_TURN_ON_MUSIC": "Turn On Music",
+			"UI_TURN_OFF_MUSIC": "Turn Off Music"
 		},
 		"french": {
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Chaise Portable",
-			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "La chaise est une chaise pliante classique (pliage non inclus), avec une construction solide qui est parfaite pour s'asseoir pendant de longues périodes de temps."
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "La chaise est une chaise pliante classique (pliage non inclus), avec une construction solide qui est parfaite pour s'asseoir pendant de longues périodes de temps.",
+			"UI_TURN_ON_MUSIC": "Mettre de la musique",
+			"UI_TURN_OFF_MUSIC": "Arrêter la musique"
 		},
 		"italian": {
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Sedia Portatile",
-			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "La sedia è una sedia pieghevole classica (piega non inclusa), con una costruzione robusta che è perfetta per sedersi per lunghi periodi di tempo."
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "La sedia è una sedia pieghevole classica (piega non inclusa), con una costruzione robusta che è perfetta per sedersi per lunghi periodi di tempo.",
+			"UI_TURN_ON_MUSIC": "Accendi la musica",
+			"UI_TURN_OFF_MUSIC": "Spegni la musica"
 		},
 		"german": {
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Tragbarer Stuhl",
-			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "Der Stuhl ist ein klassischer Klappstuhl (Zusammenklappen nicht enthalten), mit einer stabilen Konstruktion, die perfekt für längeres Sitzen ist."
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "Der Stuhl ist ein klassischer Klappstuhl (Zusammenklappen nicht enthalten), mit einer stabilen Konstruktion, die perfekt für längeres Sitzen ist.",
+			"UI_TURN_ON_MUSIC": "Musik einschalten",
+			"UI_TURN_OFF_MUSIC": "Musik ausschalten"
 		},
 		"spanish": {
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Silla Portátil",
-			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "La silla es una silla plegable clásica (plegado no incluido), con una construcción sólida que es perfecta para sentarse durante largos períodos de tiempo."
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "La silla es una silla plegable clásica (plegado no incluido), con una construcción sólida que es perfecta para sentarse durante largos períodos de tiempo.",
+			"UI_TURN_ON_MUSIC": "Encender música",
+			"UI_TURN_OFF_MUSIC": "Apagar música"
 		},
 		"russian": {
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "Портативный стул",
-			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "Стул является классическим складным стулом (складывание не включено), с прочной конструкцией, которая идеально подходит для длительного нахождения на сидении."
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "Стул является классическим складным стулом (складывание не включено), с прочной конструкцией, которая идеально подходит для длительного нахождения на сидении.",
+			"UI_TURN_ON_MUSIC": "Включить музыку",
+			"UI_TURN_OFF_MUSIC": "Выключить музыку"
 		},
 		"chineseSimplified": {
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "便携式椅子",
-			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "这把椅子是一款经典的折叠椅（不包括折叠），具有坚固的结构，非常适合长时间坐在上面。"
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "这把椅子是一款经典的折叠椅（不包括折叠），具有坚固的结构，非常适合长时间坐在上面。",
+			"UI_TURN_ON_MUSIC": "打开音乐",
+			"UI_TURN_OFF_MUSIC": "关闭音乐"
 		},
 		"chineseTraditional": {
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "攜帶式椅子",
-			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "這把椅子是一款經典的折疊椅（不包括折疊），具有堅固的結構，非常適合長時間坐在上面。"
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "這把椅子是一款經典的折疊椅（不包括折疊），具有堅固的結構，非常適合長時間坐在上面。",
+			"UI_TURN_ON_MUSIC": "打開音樂",
+			"UI_TURN_OFF_MUSIC": "關閉音樂"
 		},
 		"japanese": {
 			"UI_PROP_CHAIR_PORTABLECHAIR_NAME": "折り畳み椅子",
-			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "この椅子はクラシックな折り畳み椅子（折り畳みは含まれていません）で、長時間座っているのに適した頑丈な構造です。"
+			"UI_PROP_CHAIR_PORTABLECHAIR_DESC": "この椅子はクラシックな折り畳み椅子（折り畳みは含まれていません）で、長時間座っているのに適した頑丈な構造です。",
+			"UI_TURN_ON_MUSIC": "音楽を流す",
+			"UI_TURN_OFF_MUSIC": "音楽を切る"
 		}
+	},
+	"localisedLines": {
+		"002F108ABEDEBA42": "UI_TURN_ON_MUSIC",
+		"0062FCC6AA011968": "UI_TURN_OFF_MUSIC"
 	},
 	"dependencies": [
 		{
